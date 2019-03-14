@@ -1,0 +1,14 @@
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp2.1\SeleniumCore.deps.json
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp2.1\SeleniumCore.runtimeconfig.json
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp2.1\SeleniumCore.runtimeconfig.dev.json
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp2.1\SeleniumCore.dll
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp2.1\SeleniumCore.csprojAssemblyReference.cache
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp2.1\SeleniumCore.csproj.CoreCompileInputs.cache
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp2.1\SeleniumCore.AssemblyInfoInputs.cache
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp2.1\SeleniumCore.AssemblyInfo.cs
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp2.1\SeleniumCore.pdb
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp2.1\SeleniumCore.dll
+c:\users\nadevs\source\repos\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp2.1\SeleniumCore.pdb
